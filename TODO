@@ -1,0 +1,13 @@
+. inner product
+. outer product
+. different number fields
+. arbitrary precision
+. comparison ops
+. trig fns
+. functions
+. fixed point finder
+. input
+. fix scanner bugs
+. get Formula off the heap
+. WellFormedFormula
+. input from file
